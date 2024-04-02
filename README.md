@@ -22,11 +22,6 @@ With a senior background and 5 years of experience in the industry, I've honed m
 - **Machine Learning**: Supervised and Unsupervised Learning, Deep Learning, Natural Language Processing, Computer Vision
 - **Soft Skills**: Strong Communication, Critical Thinking, Problem-Solving, Teamwork
 
-## 📚 Learnings & Blog Posts
-- [Title of Blog Post or Article](Link)
-- [Title of Blog Post or Article](Link)
-- [Course or Certification](Link)
-
 
 ## 📫 How to Reach Me
 - **Email**: `vahahat@gmail.com`
