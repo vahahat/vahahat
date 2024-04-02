@@ -1,6 +1,5 @@
-### Hi there 👋
 
-# Hello, I'm [Your Name]! 👋
+# Hello, I'm Vasiley! 👋
 
 ## 🚀 About Me
 I'm a passionate Data Scientist and Machine Learning Engineer with a relentless drive to solve complex problems and transform data into actionable insights.
@@ -22,9 +21,6 @@ With a senior background and 5 years of experience in the industry, I've honed m
 - **Data Analysis**: Statistical Analysis, Data Visualization, Data Cleaning and Preprocessing
 - **Machine Learning**: Supervised and Unsupervised Learning, Deep Learning, Natural Language Processing, Computer Vision
 - **Soft Skills**: Strong Communication, Critical Thinking, Problem-Solving, Teamwork
-
-## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ## 📚 Learnings & Blog Posts
 - [Title of Blog Post or Article](Link)
