@@ -1,5 +1,5 @@
 
-# Hello, I'm Vasiley! 👋
+# Hello, I'm Vasiliy! 👋
 
 ## 🚀 About Me
 I'm a passionate Data Scientist and Machine Learning Engineer with a relentless drive to solve complex problems and transform data into actionable insights.
